@@ -1,11 +1,11 @@
 # Site settings
 author: Brandon Teich
-title: 
+title: My Programming Blog
 header-img: img/home-bg.png
 email: brandonteich123@gmail.com
 copyright_name: Brandon Teich
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog about my programming adventures with learn.co and flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TruePieLover

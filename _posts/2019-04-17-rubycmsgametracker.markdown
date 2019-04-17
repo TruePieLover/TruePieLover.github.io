@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "RubyCmsGameTracker"
-date:       2019-04-17 05:47:04 +0000
+date:       2019-04-17 01:47:04 -0400
 permalink:  rubycmsgametracker
 ---
 
